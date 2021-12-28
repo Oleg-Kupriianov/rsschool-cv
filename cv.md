@@ -31,3 +31,9 @@
 **RS School:** JavaScript/Front-end
 
 ---
+
+### Languages
+
+Ukrainian - native
+Russian - native
+English - A2
