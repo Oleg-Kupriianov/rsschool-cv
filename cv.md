@@ -14,3 +14,20 @@
 - **Telegram:** [@OlegKupriianov](https://t.me/OlegKupriianov)
 
 ---
+
+### Skills
+
+- HTML5 (in progress)
+- CSS3 (in progress)
+- JavaScript Basics (in progress)
+- Git, GitHub (in progress)
+- VS Code
+
+---
+
+### Courses
+
+**GOIT:** Fullstack Developer
+**RS School:** JavaScript/Front-end
+
+---
