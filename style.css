@@ -183,13 +183,12 @@ main {
 }
 
 footer {
+  display: flex;
   background-color: #829985;
   padding: 20px;
 }
 
 .footer-container {
-  display: flex;
-  justify-content: flex-start;
   align-items: center;
   margin: 0;
   color: #fff;
@@ -204,9 +203,11 @@ footer {
 .rss {
   width: 121px;
   height: 45px;
-  background-image: url(./assets/svg/rss.svg);
+  background-image: url("./assets/svg/rss.svg");
   background-size: contain;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: flex-end;
 }
 
 @media (max-width: 1440px) {
